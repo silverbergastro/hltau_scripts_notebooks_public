@@ -14,7 +14,9 @@ Contents include:
 
 -A short notebook adapting the $Q$ parameter derived in [Cody et al. (2014)](https://ui.adsabs.harvard.edu/abs/2014AJ....147...82C/abstract) for X-ray data
 
--A short notebook plotting the spectral-fitting results from HL Tau against the spectral fits to sources in the Chandra Orion Ultradeep Project, presented in [Getman et al. (2005a)](https://ui.adsabs.harvard.edu/abs/2005ApJS..160..319G/abstract)
+-A short notebook plotting the spectral-fitting results from HL Tau against the spectral fits to sources in the Chandra Orion Ultradeep Project, presented in [Getman et al. (2005a)](https://ui.adsabs.harvard.edu/abs/2005ApJS..160..319G/abstract), and a short script generating a table with the contents needed for this plot from two separate tables in Getman et al. (2005a)
+
+-A short notebook looking at stellar rotation rates in COUP from [Serna et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..177S/abstract)
 
 
 
